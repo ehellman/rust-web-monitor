@@ -1,0 +1,3 @@
+DROP TABLE IF EXISTS requests;
+DROP TABLE IF EXISTS languages;
+DROP TABLE IF EXISTS projects;
